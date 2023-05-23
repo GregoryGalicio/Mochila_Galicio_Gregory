@@ -1,0 +1,11 @@
+li{
+    display: flex;
+    align-items: center;
+    align-content: space-around;
+    border: 2px solid green;
+}
+p{
+    color: blue;
+    padding-left: 10px;
+    
+}
